@@ -1,5 +1,5 @@
-# pygame
-Inicio de aprendizagem sobre jogos em python
+# Pygame
+Inicio de aprendizagem sobre jogos em python.
 Vamos analisar o código passo a passo e explicar o que cada linha faz em português:
 
 ```python
@@ -74,4 +74,4 @@ quit()
    - `pygame.quit()`: Esta linha finaliza a biblioteca pygame, liberando os recursos que ela estava utilizando.
    - `quit()`: Esta linha (opcional) finaliza o programa Python.
 
-Este código básico cria uma janela de jogo simples com o título "a bola". Ele implementa um loop principal que processa eventos (como o fechamento da janela) e atualiza a tela a cada iteração.  Você pode expandir esse código para criar jogos mais complexos, adicionando elementos gráficos (como
+Este código básico cria uma janela de jogo simples com o título "a bola". Ele implementa um loop principal que processa eventos (como o fechamento da janela) e atualiza a tela a cada iteração.
